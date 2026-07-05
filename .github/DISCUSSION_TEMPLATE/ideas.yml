@@ -1,0 +1,34 @@
+title: "[Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Propose a feature, workflow improvement, or product direction for Dyma.
+
+        Explain the problem you are solving and who benefits.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What pain point or gap does this address?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: Describe your idea and how it could work.
+    validations:
+      required: true
+  - type: dropdown
+    id: audience
+    attributes:
+      label: Primary audience
+      options:
+        - Contributors / earners
+        - Project owners / Studio
+        - Developers / integrators
+        - Platform operators
+        - Everyone
+    validations:
+      required: true

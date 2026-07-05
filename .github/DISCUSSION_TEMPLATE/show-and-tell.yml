@@ -1,0 +1,27 @@
+title: "[Show and tell] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share something you built with Dyma: a campaign, integration, demo, or community project.
+  - type: input
+    id: title
+    attributes:
+      label: Project or demo name
+      placeholder: e.g. Cosmos testnet onboarding campaign
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What did you build?
+      description: Include links, screenshots, or repos if available.
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link (optional)
+      placeholder: https://
+    validations:
+      required: false

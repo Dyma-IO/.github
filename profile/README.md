@@ -85,6 +85,9 @@ Contact data stays with Dyma. Projects receive wallets and anonymized stats, nev
 
 ## Get involved
 
+**Community**  
+Join [Discussions](https://github.com/orgs/Dyma-IO/discussions) for Q&A, ideas, announcements, and show-and-tell. Repo-specific bugs and features belong in **issues** on the relevant repository.
+
 **Builders & protocols**  
 Run campaigns, define quests, and reach verified contributors. Studio access at [studio.dyma.io](https://studio.dyma.io).
 
@@ -92,7 +95,7 @@ Run campaigns, define quests, and reach verified contributors. Studio access at 
 Earn points, climb reputation tiers, and keep what you prove on-chain.
 
 **Developers**  
-Each repo ships with `CONTRIBUTING.md` and CI. Open an issue before large changes. Community chat lives in [Discussions](https://github.com/Dyma-IO/.github/discussions).
+Each repo ships with `CONTRIBUTING.md` and CI. Open an issue before large changes.
 
 **Security**  
 Report vulnerabilities privately to [dymaweb3@gmail.com](mailto:dymaweb3@gmail.com). Please do not file public issues for security findings.

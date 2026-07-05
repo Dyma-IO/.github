@@ -1,0 +1,16 @@
+title: "[General] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this category for open conversation about Dyma, task-to-earn, and the ecosystem.
+
+        Before posting, search [existing discussions](https://github.com/orgs/Dyma-IO/discussions).
+  - type: textarea
+    id: topic
+    attributes:
+      label: Topic
+      description: What would you like to discuss?
+      placeholder: Share context in a few sentences.
+    validations:
+      required: true

@@ -1,0 +1,35 @@
+title: "[Q&A] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask a question about Dyma, integrations, or contributing.
+
+        Check [existing Q&A threads](https://github.com/orgs/Dyma-IO/discussions/categories/q-a) first.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      description: Which part of Dyma is this about?
+      options:
+        - User app (dyma.io)
+        - Studio (campaigns and quests)
+        - Developer / open source
+        - Integrations and verification
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: Include enough detail for someone to help without guessing.
+    validations:
+      required: true
+  - type: textarea
+    id: tried
+    attributes:
+      label: What you've tried
+      description: Steps, links, error messages, or relevant context.
+    validations:
+      required: false
