@@ -1,36 +1,106 @@
-# Dyma IO
+<div align="center">
 
-**Do the task. Own the proof.**
+# dyma
 
-Dyma is a [Task-to-Earn platform](https://dyma.io) where missions become verifiable progress — complete quests, build portable reputation, and claim rewards straight to your wallet. No custody, no screenshots, no middleman.
+### Do the task. Own the proof.
 
----
+**Task-to-Earn platform for Web3.**  
+Missions become verifiable progress. Reputation travels with you. Rewards settle to your wallet.
 
-## What we build
+[![Website](https://img.shields.io/badge/website-dyma.io-C2410C?style=for-the-badge)](https://dyma.io)
+[![X](https://img.shields.io/badge/X-@dyma__io-0A0A0A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dyma_io)
+[![Email](https://img.shields.io/badge/email-dymaweb3@gmail.com-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dymaweb3@gmail.com)
 
-| Surface | Domain | Repository |
-|---------|--------|------------|
-| Landing + user app | [dyma.io](https://dyma.io) | [dyma-frontend](https://github.com/Dyma-IO/dyma-frontend) |
-| Project studio | studio.dyma.io | Coming soon |
-| Super admin | admin.dyma.io | [dyma-admin](https://github.com/Dyma-IO/dyma-admin) |
-| Backend API | api.dyma.io | [dyma-api](https://github.com/Dyma-IO/dyma-api) |
-| Smart contracts | Safrochain | [dyma-contracts](https://github.com/Dyma-IO/dyma-contracts) |
-| Chain indexer | — | [dyma-indexer](https://github.com/Dyma-IO/dyma-indexer) |
-| Shared types | npm `@dyma-io/shared` | [dyma-shared](https://github.com/Dyma-IO/dyma-shared) |
+</div>
 
-## Core principles
+<br />
 
-- **Self-custody** — rewards settle from escrow directly to user wallets
-- **Hybrid verification** — on-chain indexer, platform APIs, project REST endpoints, manual review
-- **Portable reputation** — soulbound credentials earned across campaigns
-- **Privacy first** — user email never shared with projects
+## About
 
-## Connect
+**Dyma IO** builds infrastructure for task-to-earn across the Cosmos ecosystem and beyond. Projects launch campaigns. Contributors complete quests. Verification is automatic where possible, human where it matters. Settlement is direct from escrow to the user wallet. Dyma never holds custody.
 
-- Website · [dyma.io](https://dyma.io)
-- X · [@dyma_io](https://x.com/dyma_io)
-- Email · [dymaweb3@gmail.com](mailto:dymaweb3@gmail.com)
+<br />
 
-## Contributing
+## Platform
 
-Each repository includes a `CONTRIBUTING.md`. For security disclosures, contact **dymaweb3@gmail.com** privately — do not open public issues for vulnerabilities.
+| Product | URL | Role |
+|:--------|:----|:-----|
+| **User app** | [dyma.io](https://dyma.io) | Landing, quests, rewards, reputation |
+| **Studio** | studio.dyma.io | Project dashboard and campaign builder |
+| **Admin** | admin.dyma.io | Platform operations and moderation |
+| **API** | api.dyma.io | Auth, verification, billing, notifications |
+
+<br />
+
+## Open source
+
+| Repository | Focus |
+|:-----------|:------|
+| [`dyma-frontend`](https://github.com/Dyma-IO/dyma-frontend) | Landing page and user application |
+| [`dyma-api`](https://github.com/Dyma-IO/dyma-api) | Backend services and REST API |
+| [`dyma-admin`](https://github.com/Dyma-IO/dyma-admin) | Super admin console |
+| [`dyma-contracts`](https://github.com/Dyma-IO/dyma-contracts) | CosmWasm smart contracts |
+| [`dyma-indexer`](https://github.com/Dyma-IO/dyma-indexer) | Multi-chain quest verification |
+| [`dyma-shared`](https://github.com/Dyma-IO/dyma-shared) | Shared TypeScript types and constants |
+
+<br />
+
+## How it works
+
+```
+Connect wallet  →  Complete quest  →  Verify  →  Claim reward
+     ~10s              you            ~1.8s         your wallet
+```
+
+Verification paths include on-chain indexing, platform integrations (social, GitHub), project-owned REST APIs, and moderated review for custom submissions.
+
+<br />
+
+## Principles
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Self-custody**  
+Campaign pools live in audited escrow. Rewards route to the contributor address. No intermediary balance sheet.
+
+**Portable reputation**  
+Completions accumulate into credentials projects can trust for allowlists, grants, and governance.
+
+</td>
+<td width="50%" valign="top">
+
+**Hybrid verification**  
+Automatic where the chain or an API can prove it. Manual where quality and context require a human reviewer.
+
+**Privacy by default**  
+Contact data stays with Dyma. Projects receive wallets and anonymized stats, never email or phone.
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## Get involved
+
+**Builders & protocols**  
+Run campaigns, define quests, and reach verified contributors. Studio access at [studio.dyma.io](https://studio.dyma.io).
+
+**Contributors**  
+Earn points, climb reputation tiers, and keep what you prove on-chain.
+
+**Developers**  
+Each repo ships with `CONTRIBUTING.md` and CI. Open an issue before large changes.
+
+**Security**  
+Report vulnerabilities privately to [dymaweb3@gmail.com](mailto:dymaweb3@gmail.com). Please do not file public issues for security findings.
+
+<br />
+
+<div align="center">
+
+<sub>© 2026 Dyma IO · Open infrastructure for verifiable work</sub>
+
+</div>
