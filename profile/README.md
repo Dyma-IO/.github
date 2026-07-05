@@ -10,6 +10,7 @@
 Missions become verifiable progress. Reputation travels with you. Rewards settle to your wallet.
 
 [![Website](https://img.shields.io/badge/website-dyma.io-C2410C?style=for-the-badge)](https://dyma.io)
+[![Docs](https://img.shields.io/badge/docs-read-C2410C?style=for-the-badge)](https://dyma-io.github.io/dyma-docs/)
 [![X](https://img.shields.io/badge/X-@dyma__io-0A0A0A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dyma_io)
 [![Email](https://img.shields.io/badge/email-dymaweb3@gmail.com-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dymaweb3@gmail.com)
 
@@ -29,6 +30,7 @@ Missions become verifiable progress. Reputation travels with you. Rewards settle
 |:--------|:----|:-----|
 | **User app** | [dyma.io](https://dyma.io) | Landing, quests, rewards, reputation |
 | **Studio** | studio.dyma.io | Project dashboard and campaign builder |
+| **Documentation** | [docs](https://dyma-io.github.io/dyma-docs/) | Platform guides and developer reference |
 
 <br />
 
@@ -42,6 +44,7 @@ Missions become verifiable progress. Reputation travels with you. Rewards settle
 | [`dyma-contracts`](https://github.com/Dyma-IO/dyma-contracts) | CosmWasm smart contracts |
 | [`dyma-indexer`](https://github.com/Dyma-IO/dyma-indexer) | Multi-chain quest verification |
 | [`dyma-shared`](https://github.com/Dyma-IO/dyma-shared) | Shared TypeScript types and constants |
+| [`dyma-docs`](https://github.com/Dyma-IO/dyma-docs) | Public documentation (Docusaurus) |
 
 <br />
 
