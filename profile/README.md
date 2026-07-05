@@ -1,6 +1,8 @@
 <div align="center">
 
-# dyma
+<img src="./assets/discord-banner-1920x480.png" alt="dyma" width="100%" />
+
+<br /><br />
 
 ### Do the task. Own the proof.
 
