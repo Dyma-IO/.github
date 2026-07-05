@@ -29,8 +29,6 @@ Missions become verifiable progress. Reputation travels with you. Rewards settle
 |:--------|:----|:-----|
 | **User app** | [dyma.io](https://dyma.io) | Landing, quests, rewards, reputation |
 | **Studio** | studio.dyma.io | Project dashboard and campaign builder |
-| **Admin** | admin.dyma.io | Platform operations and moderation |
-| **API** | api.dyma.io | Auth, verification, billing, notifications |
 
 <br />
 
