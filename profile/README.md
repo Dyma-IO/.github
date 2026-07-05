@@ -92,7 +92,7 @@ Run campaigns, define quests, and reach verified contributors. Studio access at 
 Earn points, climb reputation tiers, and keep what you prove on-chain.
 
 **Developers**  
-Each repo ships with `CONTRIBUTING.md` and CI. Open an issue before large changes.
+Each repo ships with `CONTRIBUTING.md` and CI. Open an issue before large changes. Community chat lives in [Discussions](https://github.com/Dyma-IO/.github/discussions).
 
 **Security**  
 Report vulnerabilities privately to [dymaweb3@gmail.com](mailto:dymaweb3@gmail.com). Please do not file public issues for security findings.
