@@ -28,7 +28,8 @@ Missions become verifiable progress. Reputation travels with you. Rewards settle
 
 | Product | URL | Role |
 |:--------|:----|:-----|
-| **User app** | [dyma.io](https://dyma.io) | Landing, quests, rewards, reputation |
+| **Landing** | [dyma.io](https://dyma.io) | Marketing and public SEO pages |
+| **User app** | [dyma.io/app](https://dyma.io/app) | Quests, rewards, reputation |
 | **Studio** | studio.dyma.io | Project dashboard and campaign builder |
 | **Documentation** | [docs](https://dyma-io.github.io/dyma-docs/) | Platform guides and developer reference |
 
@@ -38,7 +39,8 @@ Missions become verifiable progress. Reputation travels with you. Rewards settle
 
 | Repository | Focus |
 |:-----------|:------|
-| [`dyma-frontend`](https://github.com/Dyma-IO/dyma-frontend) | Landing page and user application |
+| [`dyma-landing`](https://github.com/Dyma-IO/dyma-landing) | Marketing landing page (`dyma.io`) |
+| [`dyma-client`](https://github.com/Dyma-IO/dyma-client) | User application (`dyma.io/app`) |
 | [`dyma-api`](https://github.com/Dyma-IO/dyma-api) | Backend services and REST API |
 | [`dyma-admin`](https://github.com/Dyma-IO/dyma-admin) | Super admin console |
 | [`dyma-contracts`](https://github.com/Dyma-IO/dyma-contracts) | CosmWasm smart contracts |
